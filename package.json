@@ -1,0 +1,14 @@
+{
+  "name": "meshki",
+  "version": "1.0.0",
+  "description": "Web",
+  "main": "/javascript/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saeed Jafari",
+  "license": "ISC",
+  "dependencies": {
+    "material-components-web": "^3.0.0"
+  }
+}
