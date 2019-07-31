@@ -24,3 +24,7 @@ document.getElementById('tabFeedback').addEventListener('click', () => {
         inline: 'end'
     });
 });
+
+document.getElementById('amazonLink').addEventListener('click', () => {
+    window.open('https://www.amazon.com/gp/product/B07VT6LVTY', '_blank');
+});

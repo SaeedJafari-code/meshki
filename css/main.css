@@ -640,8 +640,9 @@ body {
     /*height: 350px;*/
 }
 
-.googlePlayLink{
+.appstorebadge{
     max-width: 230px;
+    cursor: pointer;
 }
 
 .section-feedback {
